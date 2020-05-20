@@ -1,8 +1,5 @@
 Hello 
 Created new branch and file
-<<<<<<< HEAD
 Learning
 
-=======
 Re-editing
->>>>>>> 116638abe2c9bf9be801168feeaa12f4a8c38c99
